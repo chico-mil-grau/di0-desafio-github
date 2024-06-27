@@ -6,4 +6,4 @@ Desafio de Projeto sobre Git/Github
 
 ## Maidset do Chico
 
-[tudo comeuçou em 2012](https://www.youtube.com/watch?v=1JsVZQzyKYM&list=PL54uE-eWJuq8x7sp1V3qOqFi40K35CTAx)
+[tudo comeuçou em 2012](https://www.youtube.com/watch?v=kszkoFI84JU&list=PL54uE-eWJuq8x7sp1V3qOqFi40K35CTAx&index=8)
